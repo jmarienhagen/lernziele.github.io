@@ -1,0 +1,142 @@
+﻿<?xml version="1.0"?>
+						<manifest identifier="Manifest_2004-4a" version="1.1"
+						          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" 
+						          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+						          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+						          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd 
+						                              http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd 
+						                              http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">  <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>courseMetadata.xml</adlcp:location>
+   </metadata>
+   <organizations default = "LINEAR">
+      <organization identifier = "LINEAR">
+         <title>lernziele_jca</title>
+         <item identifier ="ident001" identifierref ="ref001" isvisible = "true">
+              <title>lernziele_jca</title>
+         </item>
+      </organization>
+   </organizations>
+   <resources>
+      <resource identifier ="ref001" type = "webcontent" adlcp:scormtype ="asset" href="index.html">
+<file href = "adlcp_rootv1p2.xsd"/>
+<file href = "base.css"/>
+<file href = "beispiele_kompetenzorientierter_lernziele.html"/>
+<file href = "common.js"/>
+<file href = "constructive_alignment.html"/>
+<file href = "constructive_alignment.jpg"/>
+<file href = "content.css"/>
+<file href = "courseMetadata.xml"/>
+<file href = "einfhrung.html"/>
+<file href = "eisbergborder_image8488.png"/>
+<file href = "exe_html5.js"/>
+<file href = "exe_jquery.js"/>
+<file href = "exe_tooltips.js"/>
+<file href = "favicon.ico"/>
+<file href = "grundstzliche_regeln.html"/>
+<file href = "icon_account.png"/>
+<file href = "icon_account_black.png"/>
+<file href = "icon_account_white.png"/>
+<file href = "icon_alarm.png"/>
+<file href = "icon_alarm_black.png"/>
+<file href = "icon_alarm_white.png"/>
+<file href = "icon_announcement.png"/>
+<file href = "icon_announcement_black.png"/>
+<file href = "icon_announcement_white.png"/>
+<file href = "icon_assessment.png"/>
+<file href = "icon_assessment_black.png"/>
+<file href = "icon_assessment_white.png"/>
+<file href = "icon_assignment.png"/>
+<file href = "icon_assignment_black.png"/>
+<file href = "icon_assignment_list.png"/>
+<file href = "icon_assignment_list_black.png"/>
+<file href = "icon_assignment_list_white.png"/>
+<file href = "icon_assignment_white.png"/>
+<file href = "icon_backup.png"/>
+<file href = "icon_backup_black.png"/>
+<file href = "icon_backup_white.png"/>
+<file href = "icon_camera.png"/>
+<file href = "icon_camera_black.png"/>
+<file href = "icon_camera_white.png"/>
+<file href = "icon_description.png"/>
+<file href = "icon_description_black.png"/>
+<file href = "icon_description_white.png"/>
+<file href = "icon_download.png"/>
+<file href = "icon_download_black.png"/>
+<file href = "icon_download_white.png"/>
+<file href = "icon_event.png"/>
+<file href = "icon_event_black.png"/>
+<file href = "icon_event_white.png"/>
+<file href = "icon_exit.png"/>
+<file href = "icon_exit_black.png"/>
+<file href = "icon_exit_white.png"/>
+<file href = "icon_explore.png"/>
+<file href = "icon_explore_black.png"/>
+<file href = "icon_explore_white.png"/>
+<file href = "icon_info.png"/>
+<file href = "icon_info_black.png"/>
+<file href = "icon_info_white.png"/>
+<file href = "icon_media.png"/>
+<file href = "icon_media_black.png"/>
+<file href = "icon_media_white.png"/>
+<file href = "icon_note.png"/>
+<file href = "icon_note_black.png"/>
+<file href = "icon_note_white.png"/>
+<file href = "icon_puzzle.png"/>
+<file href = "icon_puzzle_black.png"/>
+<file href = "icon_puzzle_white.png"/>
+<file href = "icon_question.png"/>
+<file href = "icon_question_black.png"/>
+<file href = "icon_question_white.png"/>
+<file href = "icon_renew.png"/>
+<file href = "icon_renew_black.png"/>
+<file href = "icon_renew_white.png"/>
+<file href = "icon_search.png"/>
+<file href = "icon_search_black.png"/>
+<file href = "icon_search_white.png"/>
+<file href = "icon_star.png"/>
+<file href = "icon_star_black.png"/>
+<file href = "icon_star_white.png"/>
+<file href = "icon_unread.png"/>
+<file href = "icon_unread_black.png"/>
+<file href = "icon_unread_white.png"/>
+<file href = "icon_wifi.png"/>
+<file href = "icon_wifi_black.png"/>
+<file href = "icon_wifi_white.png"/>
+<file href = "imagesloaded.pkg.min.js"/>
+<file href = "imscp_rootv1p1p2.xsd"/>
+<file href = "imsmd_rootv1p2p1.xsd"/>
+<file href = "ims_xml.xsd"/>
+<file href = "index.html"/>
+<file href = "inhaltsorientierte_und_kompetenzorientierte_lernziele.html"/>
+<file href = "jquery.qtip.min.css"/>
+<file href = "jquery.qtip.min.js"/>
+<file href = "kompetenzen_sind_mehr_als_fachwissen.html"/>
+<file href = "kompetenzen_verstehen.html"/>
+<file href = "kompetenzstufencrop_border_image11150.png"/>
+<file href = "kompetenzstufen_in_lernzielen_abbilden.html"/>
+<file href = "leitfragen_zur_lernzielentwicklung.html"/>
+<file href = "lernziele_des_kurses.html"/>
+<file href = "lernziele_formulieren.html"/>
+<file href = "lernzielmannchen.jpg"/>
+<file href = "nav.css"/>
+<file href = "nichtkognitive_lernziele_definieren.html"/>
+<file href = "popup_bg.gif"/>
+<file href = "quizfragen_zum_kurs.html"/>
+<file href = "referenzen.html"/>
+<file href = "stufen_des_kompetenzerwerbs.html"/>
+<file href = "zielebenen.jpg"/>
+<file href = "zielebenencrop_image14310.png"/>
+<file href = "zusammenfassung.html"/>
+<file href = "zusammenfassung2.html"/>
+<file href = "_style_icons.png"/>
+<file href = "_style_icons_black.png"/>
+<file href = "_style_icons_white.png"/>
+<file href = "_style_input_checkbox.png"/>
+<file href = "_style_input_radio.png"/>
+<file href = "_style_js.js"/>
+<file href = "_style_licenses.png"/>
+      </resource>
+   </resources>
+</manifest>
